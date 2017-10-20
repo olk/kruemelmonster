@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+kruemelmonster/kruemelmonster
+kruemelmonster_cuda/kruemelmonster_cuda
+kruemelmonster_openmp/kruemelmonster_openmp
